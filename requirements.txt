@@ -1,0 +1,44 @@
+# Core Dependencies
+google-genai
+python-dotenv
+pyaudio
+opencv-python
+pillow
+numpy
+websockets
+pydantic
+
+# Communication
+pywhatkit
+pyperclip
+
+# System Control
+psutil
+screen-brightness-control
+pycaw; platform_system=="Windows"
+wmi; platform_system=="Windows"
+
+# Input Control
+pyautogui
+pynput
+
+# Advanced Features
+requests
+beautifulsoup4
+feedparser
+GitPython
+selenium
+schedule
+scikit-learn
+
+# PDF Support
+PyPDF2
+pdfplumber
+
+# Streamlit Frontend
+streamlit
+plotly
+pandas
+
+# Optional but recommended
+elevenlabs
